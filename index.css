@@ -79,7 +79,7 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:#8B0000; /* Dark red */
+    color:rgb(255, 255, 255);
     font-size:70px;
     text-decoration:underline;
 }
