@@ -79,9 +79,11 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:rgb(237, 11, 11);
+    color:#8B0000; /* Dark red */
     font-size:70px;
     text-decoration:underline;
+}
+
 }
 #projects {
     width: 10vw;
