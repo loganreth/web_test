@@ -95,22 +95,20 @@
 
 # 6. References
 
-- Properly cite any images used in your project.
+ChatGPT:
+ OpenAI. ChatGPT. OpenAI, 2025.
 
-- Cite any other references you have used and update the references.
 
-Earth image:
-https://earth.google.com/web
+94 Feet of Game:
+ “Home.” 94FeetofGame.com, www.94feetofgame.com. Accessed 23 May 2025.
 
-X-Men image:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.menshealth.com%2Fentertainment%2Fa34773910%2Fx-men-movie-order%2F&psig=AOvVaw2ldcTVfbYTjRs34kqN2iiS&ust=1747758677875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNithMv6r40DFQAAAAAdAAAAABAE
 
-Code reference:
+Phil Handy:
+ Handy, Phil. 94 Feet of Game. www.94feetofgame.com/phil-handy. Accessed 23 May 2025.
+"LeBron James practices with Cleveland Cavaliers coach during NBA Finals workout." The Verge, 1 June 2016, www.theverge.com/2016/6/1/11836734/lebron-james-cleveland-cavaliers-nba-finals-2016-practice-photo. Accessed 23 May 2025.
 
-https://github.com/ndoherty-xyz/unemployables-portfolio-template
 
-https://roboticenergyllc.com
 
-Vincent Garreau  - vincentgarreau.com
+
 
 
